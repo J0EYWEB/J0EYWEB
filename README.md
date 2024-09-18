@@ -19,8 +19,27 @@ Let's build something cool together! 🚀
  :fire: Languages & Tools :fire:
 </h2>
 
+
+ 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,ts,react,java,postman,vite," />
   </a>
 </p>
+
+<h2 align="center"> 
+ Stats
+</h2>
+
+<br>
+
+<div class='container'>
+  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=J0EYWEB&show_icons=true&theme=tokyonight" />
+  &nbsp;
+  &nbsp;
+  <img style="height: auto; width: 40%;" align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0EYWEB&theme=tokyonight&langs_count=8&layout=compact" /></div>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=J0EYWEB&theme=tokyonight" />
+</div>
