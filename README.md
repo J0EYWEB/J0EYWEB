@@ -12,3 +12,11 @@ I love crafting clean, efficient code and exploring new technologies. When I'm n
 Let's build something cool together! 🚀
 </p>
 
+## Tech Stack
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src"https://skillicons.dev/icons?i=html,css,sass,git,js,ts,react,java"/>
+  </a>
+</p>
+
