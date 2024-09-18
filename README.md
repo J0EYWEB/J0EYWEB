@@ -16,11 +16,11 @@ Let's build something cool together! 🚀
 <br>
 
 <h2 align="center"> 
-  Tech Stack 
+ :fire: Languages & Tools :fire:
 </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,ts,react,java" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,ts,react,java,postman,vite," />
   </a>
 </p>
