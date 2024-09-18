@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/25e8901e-bc20-4e1e-a71d-137ab72ab752)
+![github-header-image(26)](https://github.com/user-attachments/assets/4b74c11b-9522-49f0-9dca-62bdc1dd37a9)
 
 <p align="center">
 Hi there 👋
@@ -22,7 +22,8 @@ Let's build something cool together! 🚀
 
  
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">![github-header-image(26)](https://github.com/user-attachments/assets/d9e8cb43-7f84-40a7-9034-bf0c597ba78b)
+
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,ts,react,java,postman,vite," />
   </a>
 </p>
