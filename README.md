@@ -1,4 +1,5 @@
 ![Header](https://github.com/user-attachments/assets/25e8901e-bc20-4e1e-a71d-137ab72ab752)
+
 <p align="center">
 Hi there 👋
 </p>
@@ -12,7 +13,11 @@ I love crafting clean, efficient code and exploring new technologies. When I'm n
 Let's build something cool together! 🚀
 </p>
 
-## Tech Stack
+<br>
+
+<h2 align="center"> 
+  Tech Stack 
+</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
