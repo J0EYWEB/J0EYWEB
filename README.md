@@ -14,9 +14,8 @@ Let's build something cool together! 🚀
 
 ## Tech Stack
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src"https://skillicons.dev/icons?i=html,css,sass,git,js,ts,react,java"/>
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,ts,react,java" />
   </a>
 </p>
-
