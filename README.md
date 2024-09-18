@@ -22,8 +22,7 @@ Let's build something cool together! 🚀
 
  
 <p align="center">
-  <a href="https://skillicons.dev">![github-header-image(26)](https://github.com/user-attachments/assets/d9e8cb43-7f84-40a7-9034-bf0c597ba78b)
-
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,sass,js,ts,react,java,postman,vite," />
   </a>
 </p>
