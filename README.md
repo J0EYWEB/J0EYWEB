@@ -37,7 +37,7 @@ Let's build something cool together! 🚀
   <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=J0EYWEB&show_icons=true&theme=tokyonight" />
   &nbsp;
   &nbsp;
-  <img style="height: auto; width: 40%;" align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0EYWEB&theme=tokyonight&langs_count=8&layout=compact" /></div>
+  <img style="height: auto; width: 34%;" align="right" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J0EYWEB&theme=tokyonight&langs_count=8&layout=compact" /></div>
 </div>
 
 <div align="center">
